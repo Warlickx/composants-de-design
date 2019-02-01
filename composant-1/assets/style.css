@@ -8,7 +8,7 @@ nav ul {
 nav ul li {
     color: #939089;
     font-family: Abel;
-    display: inline-block;
+    display: inline-flex;
     margin-top: 18px;
 }
 
